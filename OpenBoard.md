@@ -50,7 +50,6 @@ Open various competitions.
 General discussion area.
 General guides and proposals.
 
-* **Relevance to the Ecosystem:** Built on Substrate, PLIP and the VLN provide a bridge to the fiat world, abstracting the complexities of the ecosystem to onboard users across the spectrum of tech savvy. We are enabling projects across different use cases (Fintech, E-Commerce, etc.) to access the Polkadot/Kusama ecosystems by deploying legacy UI applications powered by our independently developed catalog of libraries and APIs (e.g. [Sube](https://github.com/valibre-org/sube) and [Valor](https://github.com/valibre-org/valor).) Through this unique infrastructure, PLIP is the window into the blockcahin for countless projects and communities.  
 
 * **Factors Driving Growth:** 
 Increased Popularity: The resurgence of interest in tabletop RPGs and the expansion of digital RPG platforms.
