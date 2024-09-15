@@ -123,7 +123,8 @@ By aligning your platform with Polkadot’s DAO ecosystem, we can leverage its a
 ## Development Roadmap :nut_and_bolt:
 
 
-### Milestone 1      --OB token / NFT Database / Engage Community--
+### Milestone 1      
+--OB token / NFT Database / Engage Community--
 
 * **Estimated duration:** 12 weeks
 * **FTE:**  3
@@ -141,7 +142,9 @@ By aligning your platform with Polkadot’s DAO ecosystem, we can leverage its a
 | 2. | Smart contracts: ... | We will deliver the code and engage community for beta testing of DAO funcionalities
 
 
-### Milestone 2   --Building Assistant Prototype--
+### Milestone 2  
+--Building Assistant Prototype--
+
 * **Estimated duration:** 20 weeks
 * **FTE:**  3
 * **Costs:** DOT
@@ -157,9 +160,11 @@ By aligning your platform with Polkadot’s DAO ecosystem, we can leverage its a
 
 #### Architecture
 
-![](https://github.com/zvonimirklenovic/Grants-Program/blob/master/applications/Drawing1.jpg)
+![](https://github.com/zvonimirklenovic/OpenBoard/blob/main/Drawing1.jpg)
 
-### Milestone 3    --Building Marketplace / Wallet Integration / Beta Testing--
+### Milestone 3    
+--Building Marketplace / Wallet Integration / Beta Testing--
+
 * **Estimated duration:** 20 weeks
 * **FTE:**  3
 * **Costs:** DOT
