@@ -6,9 +6,8 @@
 
 ## Project Overview :page_facing_up:
 
-### Overview
+### Open Board Community Platform
 
-Open Board Community Platform
 Purpose:
 
 A community-based web platform where imagination comes to life and the community grows stronger.
@@ -20,6 +19,8 @@ It is expected to continue growing, driven by increasing interest in tabletop an
 
 Forecast for 2030:
 By 2030, the RPG market is projected to reach around USD 43.6 billion, with a compound annual growth rate (CAGR) of about 10% from 2024 to 2030.
+
+
 
 * **Overview:** 
 
@@ -51,6 +52,7 @@ General discussion area.
 General guides and proposals.
 
 
+
 * **Factors Driving Growth:** 
 Increased Popularity: The resurgence of interest in tabletop RPGs and the expansion of digital RPG platforms.
 
@@ -69,7 +71,8 @@ the Open Board platform strives to focus on collaborative content creation
 sretnghtening the Community itself as a whole. 
 
 
-### Ecosystem Fit
+
+## Ecosystem Fit
 
 Integration with Polkadot DAO Ecosystem
 Decentralized Governance:
@@ -99,13 +102,15 @@ Assistant Using OpenAI Technology: Integrating advanced AI capabilities with Pol
 Marketplace and NFTs: Leveraging Polkadot’s robust NFT standards and marketplace capabilities can enhance the functionality and appeal of our platform’s marketplace.
 By aligning your platform with Polkadot’s DAO ecosystem, we can leverage its advanced governance, interoperability, and community engagement features to create a dynamic and user-centric Web3 platform for RPG board gamers.  
 
+
+
 ## Team :Blocksize:
 
 ### Team members
 
 **Team Lead** Zvonimir Klenovic  
-**Tech Lead** Boris Agatic (Onchain Foundation) 
-** ** Matko Hrnjkas (BLOCKSIZE)
+**Tech Lead** Boris Agatic (Onchain Foundation)   
+**Senior Developer ** Matko Hrnjkas (BLOCKSIZE)
 
 ### Contact
 
@@ -117,11 +122,8 @@ By aligning your platform with Polkadot’s DAO ecosystem, we can leverage its a
 
 ## Development Roadmap :nut_and_bolt:
 
-### Overview
 
-
-
-### Milestone 1   OB token / NFT Database / Engage Community
+### Milestone 1      --OB token / NFT Database / Engage Community--
 
 * **Estimated duration:** 12 weeks
 * **FTE:**  3
@@ -139,7 +141,7 @@ By aligning your platform with Polkadot’s DAO ecosystem, we can leverage its a
 | 2. | Smart contracts: ... | We will deliver the code and engage community for beta testing of DAO funcionalities
 
 
-### Milestone 2 Building Assistant Prototype
+### Milestone 2   --Building Assistant Prototype--
 * **Estimated duration:** 20 weeks
 * **FTE:**  3
 * **Costs:** DOT
@@ -157,7 +159,7 @@ By aligning your platform with Polkadot’s DAO ecosystem, we can leverage its a
 
 ![](https://github.com/zvonimirklenovic/Grants-Program/blob/master/applications/Drawing1.jpg)
 
-### Milestone 3 Building Marketplace / Wallet Integration / Beta Testing
+### Milestone 3    --Building Marketplace / Wallet Integration / Beta Testing--
 * **Estimated duration:** 20 weeks
 * **FTE:**  3
 * **Costs:** DOT
