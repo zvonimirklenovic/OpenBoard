@@ -33,7 +33,7 @@ Players can store, share, loan, or sell items.
 
 2. Marketplace Functionality:
 Transactions available through a crypto platform and economy with its native currency (OB or OBCP token).
-ERC2 token built and released on the Ethereum Network.
+Built and released on the Polkadot Network.
 Combines multiple smart contract functionalities.
 
 3. NFT-Based DAO Token:
@@ -53,7 +53,8 @@ General guides and proposals.
 
 
 
-* **Factors Driving Growth:** 
+* **Factors Driving Growth:**
+  
 Increased Popularity: The resurgence of interest in tabletop RPGs and the expansion of digital RPG platforms.
 
 Innovation: Continuous innovation in game design and storytelling, attracting a broader audience.
@@ -77,29 +78,33 @@ sretnghtening the Community itself as a whole.
 Integration with Polkadot DAO Ecosystem
 Decentralized Governance:
 
-DAO Token: Our native NFT-based DAO token aligns perfectly with Polkadot’s decentralized governance model. Polkadot’s OpenGov platform allows token holders to propose and vote on changes, ensuring that your community has a direct say in the platform’s development and governance1.
+DAO Token: Our native NFT-based DAO token aligns perfectly with Polkadot’s decentralized governance model. Polkadot’s OpenGov platform allows token holders to propose and vote on changes, ensuring that our community has a direct say in the platform’s development and governance1.
 
-Proposal and Voting Privileges: By integrating with Polkadot, your platform can leverage Polkadot’s existing governance tools, making it easier for your community to participate in decision-making processes.
+Proposal and Voting Privileges: By integrating with Polkadot, our platform can leverage Polkadot’s existing governance tools, making it easier for our community to participate in decision-making processes.
 
 Interoperability:
-Cross-Chain Compatibility: Polkadot’s unique relay chain architecture enables seamless interoperability between different blockchains. This means our platform can interact with other projects within the Polkadot ecosystem, enhancing functionality and user experience2.
+Cross-Chain Compatibility: Polkadot’s unique relay chain architecture enables seamless interoperability between different blockchains. This means our platform can interact with other projects within the Polkadot ecosystem, enhancing functionality and user experience.
 
-Shared Security: By building on Polkadot, your platform benefits from the shared security of the Polkadot network, ensuring robust protection against attacks.
+Shared Security: 
+By building on Polkadot, your platform benefits from the shared security of the Polkadot network, ensuring robust protection against attacks.
 
 Community Engagement:
 Community-Driven Development: Polkadot’s emphasis on community involvement aligns with our platform’s goal of empowering users through self-governance. Engaging with Polkadot’s active community can provide valuable feedback and support for our project.
 
-Incentives and Rewards: Polkadot’s treasury system can be used to fund community-driven initiatives and reward active participants, fostering a vibrant and engaged user base.
+Incentives and Rewards: 
+Polkadot’s treasury system can be used to fund community-driven initiatives and reward active participants, fostering a vibrant and engaged user base.
 
 Scalability and Performance:
 Scalable Infrastructure: Polkadot’s scalable infrastructure ensures that your platform can handle a growing number of users and transactions without compromising performance.
 
-Continuous Upgrades: Polkadot’s forkless upgrade mechanism allows for seamless updates and improvements, ensuring that your platform remains cutting-edge and efficient.
+Continuous Upgrades: 
+Polkadot’s forkless upgrade mechanism allows for seamless updates and improvements, ensuring that your platform remains cutting-edge and efficient.
 
 Innovative Features:
 Assistant Using OpenAI Technology: Integrating advanced AI capabilities with Polkadot’s decentralized framework can create unique and immersive experiences for users, setting our platform apart in the Web3 space.
 
-Marketplace and NFTs: Leveraging Polkadot’s robust NFT standards and marketplace capabilities can enhance the functionality and appeal of our platform’s marketplace.
+Marketplace and NFTs: 
+Leveraging Polkadot’s robust NFT standards and marketplace capabilities can enhance the functionality and appeal of our platform’s marketplace.
 By aligning your platform with Polkadot’s DAO ecosystem, we can leverage its advanced governance, interoperability, and community engagement features to create a dynamic and user-centric Web3 platform for RPG board gamers.  
 
 
@@ -110,7 +115,7 @@ By aligning your platform with Polkadot’s DAO ecosystem, we can leverage its a
 
 **Team Lead** Zvonimir Klenovic  
 **Tech Lead** Boris Agatic (Onchain Foundation)   
-**Senior Developer ** Matko Hrnjkas (BLOCKSIZE)
+**Senior Developer** Matko Hrnjkas (BLOCKSIZE)
 
 ### Contact
 
@@ -123,55 +128,101 @@ By aligning your platform with Polkadot’s DAO ecosystem, we can leverage its a
 ## Development Roadmap :nut_and_bolt:
 
 
-### Milestone 1      
---OB token / NFT Database / Engage Community--
+### Milestone 1: Secure Domain and Hosting
 
-* **Estimated duration:** 12 weeks
-* **FTE:**  3
-* **Costs:** DOT
+* **Estimated duration:** 4 weeks
+* **FTE:**  1
+* **Estimated cost:** $2,000 - $5,000
 
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | **0a.** | License | Apache 2.0 / GPLv3 / MIT / Unlicense. 
-| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains funcionalities and mechanisms supported by th OB token.
-| **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains purpose of the platform for targeted audience.|
-| 1. | Token Giveaways | We will create a set of NFTs with token giveaways or different funcionalities which can be used on the platform e.g. funcionality to change the duration voting period |
-| 2. | Smart contracts: ... | We will deliver the code and engage community for beta testing of DAO funcionalities
+| **0b.** | Documentation |Inline documentation and a basic tutorial explaining the project. |
+| **0c.** | Testing and Testing Guide | Comprehensive unit tests for core functions. |
+| **0d.** | Docker | 	Dockerfile(s) for testing all functionalities. |
+| 0e. | Article | We will publish an **article**/workshop that explains purpose of the platform for targeted audience. |
+| 1. | Domain | Obtain a domain and adquate hosting service |
+| 2. | Web Design | Design the website using HTML, CSS, and JavaScript. |
+| 3. | Project Description | Describe the project. |
+| 4. | Forum | Build a forum (optional) using PHP and MySQL. |
+
+### Milestone 2: Create Token and NFT Database  
 
 
-### Milestone 2  
---Building Assistant Prototype--
-
-* **Estimated duration:** 20 weeks
-* **FTE:**  3
-* **Costs:** DOT
+* **Estimated duration:** 8 weeks
+* **FTE:**  2
+* **Estimated cost:** $10,000 - $20,000
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense / Open.AI|
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can use the Assistant |
-| 0c. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can use the Assistant |
-| 0d. | Docker | We will provide a docker-compose file 
-| 1. | Open.AI API |  
-| 2. | Developer docs | Additional to the standard inline documentation we would provide a more in-depth overview of the stack
+| **0a.** | License | Apache 2.0 / GPLv3 / MIT / Unlicense. 
+| **0b.** | Documentation |Inline documentation and a basic tutorial explaining the project. |
+| **0c.** | Testing and Testing Guide | Comprehensive unit tests for core functions. |
+| **0d.** | Docker | 	Dockerfile(s) for testing all functionalities. |
+| 1. | 	OB Token | Generate smart contract NFT-DAO based using Substrate, ink!, and Rust. |
+| 2. | NFTs | Create NFTs and build a database of generated art using IPFS and a NoSQL database like MongoDB. |
+
+
+### Milestone 3: Building a Community and Crowdfunding Campaign
+
+* **Estimated duration:** 12 weeks
+* **FTE:**  2
+* **Estimated cost:** $5,000 - $15,000
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | License | Apache 2.0 / GPLv3 / MIT / Unlicense. 
+| **0b.** | Documentation |Inline documentation and a basic tutorial explaining the project. |
+| **0c.** | Testing and Testing Guide | Comprehensive unit tests for core functions. |
+| **0d.** | Docker | 	Dockerfile(s) for testing all functionalities. |
+| 1. | 	NFT Promos | Deploy NFTs as promos using Substrate and OpenSea. |
+| 2. | Outreach | Reach out on Discord, OpenSea, Social Media, small marketing capmaigns. |
+| 3. | Crowdfunding | Start campaigns on Indiegogo and Kickstarter. |
+
+
+### Milestone 4: Assistant Prototype
+
+* **Estimated duration:** 10 weeks
+* **FTE:**  3
+* **Estimated cost:** $15,000 - $35,000
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | License | Apache 2.0 / GPLv3 / MIT / Unlicense. 
+| **0b.** | Documentation |Inline documentation and a basic tutorial explaining the project. |
+| **0c.** | Testing and Testing Guide | Comprehensive unit tests for core functions. |
+| **0d.** | Docker | 	Dockerfile(s) for testing all functionalities. |
+| 1. | 	Assistant Prototype | Build using Open.AI technology and Python. |
+| 2. | Open.AI API | 	Obtain Open.AI Enterprise API. |
+| 3. | Testing | 	Test the assistant on the web using Flask for the backend and React for the frontend. |
 
 #### Architecture
 
 ![](https://github.com/zvonimirklenovic/OpenBoard/blob/main/Drawing1.jpg)
 
-### Milestone 3    
---Building Marketplace / Wallet Integration / Beta Testing--
 
-* **Estimated duration:** 20 weeks
+### Milestone 5: Platform Development
+
+* **Estimated duration:** 24 weeks
 * **FTE:**  3
-* **Costs:** DOT
+* **Estimated cost:** $25,000 - $55,000
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense / Open.AI|
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user share, loan, buy or sell items, create a proposal and vote|
-| 0c. | Docker | We will provide a docker-compose file that set-ups the local testnet of the parachain with everything needed to test all the functionality delivered with this milestone. |
-| 1. | 
+| **0a.** | License | Apache 2.0 / GPLv3 / MIT / Unlicense. 
+| **0b.** | Documentation |Inline documentation and a basic tutorial explaining the project. |
+| **0c.** | Testing and Testing Guide | Comprehensive unit tests for core functions. |
+| **0d.** | Docker | 	Dockerfile(s) for testing all functionalities. |
+| 1. | 	Marketplace | Develop the marketplace using Python for the backend and React for the frontend. |
+| 2. | Wallet Integration| 		Integrate wallet functionalities using Substrate, polkadot.js, and Rust. |
+
+
+
+### Testing
+
+To ensure the platform’s robustness and reliability, comprehensive testing should be conducted across all technologies used. This includes unit tests for smart contracts developed with Substrate and ink!, integration tests for the backend services built with Rust, and end-to-end tests for the frontend components using React. Additionally, performance testing should be carried out to assess the platform’s scalability and load-handling capabilities. Engaging the Polkadot community can be achieved by actively participating in forums, hosting webinars, and collaborating with Polkadot developers to beta test the platform’s features, ensuring it meets the community’s standards and expectations.
+
+### Sustainability and Scalability issues
+
+Sustainability of the platform will be achieved through a three-tier subscription model, providing a steady revenue stream to support ongoing development and maintenance. The tiers will offer varying levels of access and features, catering to different user needs and budgets. To address scalability with large-scale adoption, the platform will leverage cloud hosting solutions, decentralized storage options, and potentially acquire on-premise servers. This hybrid approach will ensure the platform remains efficient, secure, and capable of handling increased user demand.
