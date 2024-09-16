@@ -78,7 +78,7 @@ sretnghtening the Community itself as a whole.
 Integration with Polkadot DAO Ecosystem
 Decentralized Governance:
 
-DAO Token: Our native NFT-based DAO token aligns perfectly with Polkadot’s decentralized governance model. Polkadot’s OpenGov platform allows token holders to propose and vote on changes, ensuring that our community has a direct say in the platform’s development and governance1.
+DAO Token: Our native NFT-based DAO token aligns perfectly with Polkadot’s decentralized governance model. Polkadot’s OpenGov platform allows token holders to propose and vote on changes, ensuring that our community has a direct say in the platform’s development and governance.
 
 Proposal and Voting Privileges: By integrating with Polkadot, our platform can leverage Polkadot’s existing governance tools, making it easier for our community to participate in decision-making processes.
 
@@ -183,7 +183,7 @@ By aligning your platform with Polkadot’s DAO ecosystem, we can leverage its a
 
 ### Milestone 4: Assistant Prototype
 
-* **Estimated duration:** 10 weeks
+* **Estimated duration:** 16 weeks
 * **FTE:**  3
 * **Estimated cost:** $15,000 - $35,000
 
